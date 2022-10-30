@@ -105,7 +105,7 @@ hr {
     color: var(--dark-grey);
 }
 
-.hero .hero-heading .hero-inverted {
+.hero-inverted {
     color: var(--primary-color);
 }
 
