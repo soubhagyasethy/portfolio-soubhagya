@@ -20,7 +20,7 @@ body {
 body {
     font-family: "Montserrat", sans-serif;
     margin: 0px auto;
-    max-width: 50%;
+    max-width: 80%;
     width: 100%;
 }
 
@@ -37,7 +37,7 @@ hr {
 }
 
 .container-center {
-    max-width: 80%;
+    max-width: 100%;
     margin: auto;
 }
 
